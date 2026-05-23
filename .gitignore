@@ -1,4 +1,19 @@
+# Virtual environment (Very important!)
 venv/
+.venv/
+
+# Python cache (Generated automatically)
 __pycache__/
-*.pyc
+*.py[cod]
+
+# IDE settings (VS Code)
+.vscode/
+.idea/
+
+# Environment variables
 .env
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
